@@ -35,7 +35,7 @@ const Hero = () => {
               <img 
                 src={heroImage} 
                 alt="Happy dog with trainer" 
-                className="w-full h-auto rounded-3xl shadow-soft"
+                className="w-full h-auto rounded-3xl shadow-lg"
               />
             </div>
             {/* Decorative elements */}

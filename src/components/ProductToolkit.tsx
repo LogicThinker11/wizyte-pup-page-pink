@@ -44,7 +44,7 @@ const ProductToolkit = () => {
             <img 
               src={trainingProductsImage} 
               alt="Training products with happy puppy" 
-              className="w-full max-w-2xl mx-auto rounded-3xl shadow-soft"
+              className="w-full max-w-2xl mx-auto rounded-3xl shadow-lg"
             />
           </div>
           

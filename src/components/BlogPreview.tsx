@@ -35,7 +35,7 @@ const BlogPreview = () => {
           <img 
             src={blogThumbnails} 
             alt="Dog training blog articles" 
-            className="w-full max-w-4xl mx-auto rounded-3xl shadow-soft"
+            className="w-full max-w-4xl mx-auto rounded-3xl shadow-lg"
           />
         </div>
         
