@@ -20,6 +20,7 @@ const Header = () => {
             <a href="#tools" className="text-foreground hover:text-primary transition-colors">Tools</a>
             <a href="#blog" className="text-foreground hover:text-primary transition-colors">Blog</a>
             <a href="#about" className="text-foreground hover:text-primary transition-colors">About</a>
+            <a href="/auth" className="text-foreground hover:text-primary transition-colors">Admin</a>
           </nav>
 
           {/* Desktop CTA */}
@@ -46,6 +47,7 @@ const Header = () => {
               <a href="#tools" className="block text-foreground hover:text-primary transition-colors">Tools</a>
               <a href="#blog" className="block text-foreground hover:text-primary transition-colors">Blog</a>
               <a href="#about" className="block text-foreground hover:text-primary transition-colors">About</a>
+              <a href="/auth" className="block text-foreground hover:text-primary transition-colors">Admin</a>
               <Button className="btn-hero w-full mt-4">
                 📘 Free Guide
               </Button>
